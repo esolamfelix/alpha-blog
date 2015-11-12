@@ -44,6 +44,25 @@ $navbar-default-bg: black;
   border-color: black;
 }
 
+.article-actions{
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+
+}
+.description{
+  marging-top: 0;
+}
+
+.article-title{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.article-body{
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
 footer{
   marging-top: 45px;
   padding-top: 5px;
